@@ -12,7 +12,7 @@
         <!-- Logo -->
         <a class="navbar-brand"
            href="#">
-            <img src="{{ Vite::asset('img/dc-logo.png') }}"
+            <img src="{{ Vite::asset('resources/img/dc-logo.png') }}"
                  alt="DC Logo"
                  height="50">
         </a>
