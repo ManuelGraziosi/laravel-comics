@@ -2,4 +2,5 @@
 
 @section("contenuto")
     <h3>CURRENT SERIES</h3>
+    {{-- GRID --}}
 @endsection
