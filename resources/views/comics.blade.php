@@ -1,5 +1,5 @@
 @extends("layouts.master")
 
 @section("contenuto")
-    <h3>COMICS</h3>
+    <h3>CURRENT SERIES</h3>
 @endsection

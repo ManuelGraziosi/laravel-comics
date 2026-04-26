@@ -12,6 +12,7 @@
 <body>
     <div class="container">
         @include("partials.header")
+        @include("partials.jumbo")
         @yield("contenuto")
         @include("partials.advertise_bottom")
         @include("partials.footer")
